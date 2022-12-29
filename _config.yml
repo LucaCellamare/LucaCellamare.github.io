@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Cellamare"
+title                    : "Nicola Cellamare"
 title_separator          : "-"
-name                     : &name "Luca Cellamare"
+name                     : &name "Nicola Cellamare"
 description              : &description "personal description"
 url                      : https://LucaCellamare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luca Cellamare"
+  name             : "Nicola Cellamare"
   avatar           : "luca_photo.jpeg"
-  bio              : "Research Scientist in Computer Vision and Machine Learning"
-  location         : "Chicago, Illinois"
+  bio              : "Agente Immobiliare settore commerciale"
+  location         : "Milan, Italy"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=yT7blSIAAAAJ&hl=it&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=yT7blSIAAAAJ&hl=it&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Luca-Cellamare"
+  researchgate     : #"https://www.researchgate.net/profile/Luca-Cellamare"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LucaCellamare"
+  github           : #"LucaCellamare"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "luca-cellamare-219600175/"
+  linkedin         : "nicola-cellamare-5381b797/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/nico60cella"
   vine             :
   weibo            :
   xing             :
