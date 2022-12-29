@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Agente D'Affari In Mediazione commerciale da oltre 40 anni"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to ERRECI, a leading real estate agency in the commercial sector in Milan. Founded by Nicola Cellamare over 40 years ago, we have a wealth of experience and expertise in the industry. We specialize in helping businesses find the perfect property to meet their needs, whether it's a retail space, office, or warehouse. With a team of dedicated and knowledgeable professionals, we are committed to providing excellent service and helping our clients achieve their real estate goals. Contact us today to see how we can help you find the perfect property in Milan.
 
-A data-driven personal website
+
+
+Some tips and ideas to promote your Business Agency In Mediation in the commercial sector
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Utilize social media platforms such as LinkedIn and Facebook to showcase the services offered and success stories of the agency. This will help to establish the agency as a reputable and reliable choice for mediation in the commercial sector.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Partner with local businesses and organizations to offer discounted or complimentary mediation services to their employees or members. This will help to build a strong network of clients and increase word-of-mouth marketing.
+
+1. Attend industry events and conferences in Milan and across Italy to network with potential clients and showcase the expertise of the agency.
+
+1. Offer free educational resources or workshops on the benefits of mediation and how it can resolve disputes in the commercial sector. This can help to establish the agency as a thought leader in the field and attract potential clients.
+
+1. Leverage the agency's experience and history in the field by highlighting the successful resolutions and satisfied clients from the past 40 years. This will help to establish trust and credibility with potential clients.
+
+1. Utilize targeted online advertising to reach potential clients in the commercial sector in Milan and surrounding areas. This can include targeted ads on LinkedIn, Google AdWords, or other targeted online platforms.
+
+1. Offer a free initial consultation to potential clients to help them understand the services offered and how the agency can help them resolve their disputes. This can help to build trust and encourage potential clients to choose the agency for their mediation needs.
 
 Getting started
 ======
